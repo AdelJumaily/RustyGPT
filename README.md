@@ -14,6 +14,22 @@ You need to install several Python libraries to run the voice assistant. Open a 
 
 pip install: pyaudio, speechrecognition, playsound, gtts, and openai
 Obtain an OpenAI API key:
+```bash
+pip install pyaudio
+```
+```bash
+speechrecognition
+```
+```bash
+playsound
+```
+```bash
+gtts
+```
+```bash
+openai
+```
+
 
 Sign up for an account at https://beta.openai.com/signup/
 Create a new API key in your OpenAI account dashboard.
