@@ -16,18 +16,10 @@ pip install: pyaudio, speechrecognition, playsound, gtts, and openai
 Obtain an OpenAI API key:
 ```bash
 pip install pyaudio
-```
-```bash
-speechrecognition
-```
-```bash
-playsound
-```
-```bash
-gtts
-```
-```bash
-openai
+pip install speechrecognition
+pip install playsound
+pip install gtts
+pip install openai
 ```
 
 
