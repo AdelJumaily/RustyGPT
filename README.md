@@ -1,3 +1,4 @@
+# RustyGPT
 Voice Assistant with OpenAI and Speech Recognition
 This Python script uses the OpenAI API and Speech Recognition library to create a voice assistant that can process voice input, convert it into text, and respond using OpenAI's GPT-3.5 model.
 
@@ -34,5 +35,5 @@ The assistant will respond with generated text, which will be converted into spe
 Contributing
 If you would like to contribute to the project, feel free to fork the repository, make your changes, and create a pull request.
 
-License
+## License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/AdelJumaily/RustyGPT/blob/main/LICENSE) file for details.
